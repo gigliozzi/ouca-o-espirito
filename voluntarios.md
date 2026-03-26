@@ -10,5 +10,5 @@
 
 | **TURNO ÚNICO**  | **GRUPO**                        |
 |--------|--------------------------------|
-| Final da Assembleia           |
+| Final da Assembleia           |todos
 
